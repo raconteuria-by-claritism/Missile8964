@@ -1,4 +1,4 @@
-# Soliloque License
+# Soliloque License as of 2022-06-06
 
 “raconteuria-by-Claritism” contains technologies that aims to achieve:
 
