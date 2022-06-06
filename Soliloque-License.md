@@ -1,6 +1,6 @@
 # Soliloque License as of 2022-06-06
 
-“raconteuria-by-Claritism” contains technologies that aims to achieve:
+“raconteuria-by-claritism” contains technologies that aims to achieve:
 
 1. Universal Equality
 2. Enlightened Industrial Evolution
