@@ -14,24 +14,27 @@ You are welcome to leave your questions and suggestions in the Discussions Secti
 ##### PRESS RELEASE 
 ##### DATE : 2022-06-06
 
-## raconteuria Launches Global Collaboration To Decentralize Manufacturing For All Nations
+## Raconteuria launches global collaboration to decentralize manufacturing for all nations
 
 Missile8964 is a global open source collaboration to design scalable and transformable electronics from modular Single-Board-Computers that can be locally manufactured and assembled via Open-Connection-Architecture.
 
 Open-Connection-Architecture defines the dimensions, coordinates, and connector types only so casings can be designed for different purposes, yet all components are interchangeable for on-the-fly reconfiguration.
 
+The first iteration of Missile8964 produces a 3-in-1 device where one SBC can reconfigure into either a smartphone, a tablet, or a laptop as desired.
+
 By standardizing the motherboard size for electronic components, worldwide dispersion of the surface-mounting process is now possible with a minimally staffed local SMT lab setup.
+
+3D printing and simple machining using local materials can produce casing of all kinds, while the OCA standardization make them interchangeable and reusable without recycling.
 
 The complete scalable modularization of components allows a plethora of computing and electronic configurations to be instantly available for most civilian and military applications.
 
+The starter files for Missile8964 are currently available online and will be provided as public knowledge under "Soliloque License" when finalized by 2022-09-01 on the following GitHub repository for Missile8964.
+
+raconteuria is inviting global talents in Industrial Design, Graphic Design, Electrical Engineering and camera, screen and electric-motor makers worldwide to pitch in and audit the results.
+
 James C. Lin, the founder of “raconteuria” and author of Claritism, said : “Humanity can finally level the playing field and empower every tellurian. Life can be fair, humanity didn't try hard enough. We never needed a centralized army of assembly workers in a rogue regime.”
 
-The starter files for Missile8964 are currently available online and will be provided as public knowledge under "Soliloque License" when finalized by 2022-09-01 at the following URL : https://github.com/raconteuria-by-claritism/
-
-raconteuria is inviting talents in Industrial Design, Graphic Design, Electrical Engineering and camera, screen and electric-motor makers worldwide to pitch in and audit the result.
-
-Nikola Tesla once said : 
-“A new world must be born, a world that would justify the sacrifices offered by humanity. This new world must be a world in which there shall be no exploitation of the weak by the strong, of the good by the evil; where there will be no humiliation of the poor by the violence of the rich; where the products of intellect, science, and art will serve society for the betterment and beautification of life, and not the individuals for achieving wealth. This new world shall not be a world of the downtrodden and humiliated, but of free men and free nations, equal in dignity and respect.”
+Nikola Tesla once said : “A new world must be born, a world that would justify the sacrifices offered by humanity. This new world must be a world in which there shall be no exploitation of the weak by the strong, of the good by the evil; where there will be no humiliation of the poor by the violence of the rich; where the products of intellect, science, and art will serve society for the betterment and beautification of life, and not the individuals for achieving wealth. This new world shall not be a world of the downtrodden and humiliated, but of free men and free nations, equal in dignity and respect.”
 
 ##### Contact Info
 - Media Contact : James C. Lin
@@ -42,14 +45,14 @@ Nikola Tesla once said :
 
 ##### Notes to Editors
 
-— “raconteuria-By-Claritism” is a goodwill offering to the world in exchange for recognizing the independence of “raconteuria" – the 1st Franchise Organized Quasi-National Entity, as a sovereign nation, which declared independence on 2021-09-01. 
+— “raconteuria-by-claritism” is a goodwill offering to the world in exchange for recognizing the independence of “raconteuria" – the 1st Franchise Oriented Quasi-National Entity, as a sovereign nation, which declared independence on 2021-09-01.
 
 — Author Neal Stephenson defined FOQNE – “Franchise Organized Quasi-National Entity” in his sci-fi novel “Snow Crash”. “raconteuria” took advantage of his creation but substitutes Organized with Oriented to allow ourselves with flexibility in the future.
 
-— “raconteuria” is not capitalized for a reason. Visit : https://raconteuria.org for details about it as a FOQNE. 
+— “raconteuria” is spelled without a capital “R” to keep the organization levelheaded with our technological purposes and ambition. Visit "raconteuria website" for details about it as a FOQNE.
 
-— The three ultimate goals of raconteuria's constitution “Claritism: Remove Humanity To Rebuild It and Repair Earth” 
-- Universal Equality 
+— The three ultimate goals of raconteuria's constitution “Claritism - Remove Humanity To Rebuild It and Repair Earth” 
+- Universal Equality
 - Enlightened Industrial Revolution 
 - Priority Earth
 	
@@ -74,4 +77,3 @@ However, as the original intention is to be universal for all living beings, we 
 "Soliloque—Blueprint For The Technological Singularity", also by James C. Lin, is the foundation technology that created the theories and paradigm shifts in “raconteuria-by-claritism”. Soliloque is proprietary technology solely owned by James C. Lin and deRaconteur. It will soon be manifested in the form of a 3D operating system that interacts with users while downloading and recording their thought patterns and acts as a digital companion. When it works with its database of historical human information, namely, the “augmentation of human intellect”, as originally envisioned by Douglas C. Engelbart, the combination achieves a unique version of functional Artificial General Intelligence. This project expects to achieve alpha status within 6 months of needed funding.
 
 We cannot verify, nor will we spend the effort to confirm their true intentions. Anyone who forks the projects listed on “raconteuria-by-claritism” on GitHub.com will be automatically disqualified for inclusion in the “augmentation of human intellect”, even if the parties involved qualify through their citizenship of origins. 
-
