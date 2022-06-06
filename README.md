@@ -1,3 +1,12 @@
+Please watch the following video(s):
+
+They are exactly the same, except one with audio narration:
+
+1. https://youtu.be/IQMwA5rLDH0 Length: 45:09 (with audio narration)
+2. https://youtu.be/uEZWu9YJOug Length: 01:42 (silent slide show)
+
+They are pretty self-explanatory. You are welcome to leave your questions and suggestions.
+
 # Press Release
 
 ---
