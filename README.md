@@ -6,7 +6,7 @@ They are exactly the same, except one with audio narration:
 2. https://youtu.be/uEZWu9YJOug Length: 01:42 (silent slideshow, 34 slides)
 
 After you watch the videos, please move on to inspect the folders and their names.
-They specify the type-size-content of what each folder should contain when all are finished.
+They specify the type, size and content of what each folder should contain when all are finished.
 
 You are welcome to leave your questions and suggestions in the Discussions Section.
 
