@@ -49,9 +49,9 @@ Nikola Tesla once said :
 — “raconteuria” is not capitalized for a reason. Visit : https://raconteuria.org for details about it as a FOQNE. 
 
 — The three ultimate goals of raconteuria's constitution “Claritism: Remove Humanity To Rebuild It and Repair Earth” 
-	— Universal Equality 
-	— Enlightened Industrial Revolution 
-	— Priority Earth
+	- Universal Equality 
+	- Enlightened Industrial Revolution 
+	- Priority Earth
 	
 ---
 
