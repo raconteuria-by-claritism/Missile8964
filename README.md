@@ -2,7 +2,7 @@
 
 ---
 ##### PRESS RELEASE 
-##### DATE : 2022-06-04
+##### DATE : 2022-06-06
 &nbsp  
 &nbsp
 ##### raconteuria Launches Global Collaboration To Decentralize Manufacturing For All Nations
