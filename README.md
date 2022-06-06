@@ -4,7 +4,7 @@
 ##### PRESS RELEASE 
 ##### DATE : 2022-06-06
 
-##### raconteuria Launches Global Collaboration To Decentralize Manufacturing For All Nations
+## raconteuria Launches Global Collaboration To Decentralize Manufacturing For All Nations
 
 Missile8964 is a global open source collaboration to design scalable and transformable electronics from modular Single-Board-Computers that can be locally manufactured and assembled via Open-Connection-Architecture.
 
